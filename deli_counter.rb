@@ -11,9 +11,9 @@ def take_a_number (katz_deli,new customer)
   puts "Welcome #{new customer}, You are number #{index} in line."
 end 
 
-take_a_number(katz_deli, "Ada")
+take_a_number(katz_deli,"Ada")
 
-take_a_number(katz_deli, "Grace")
+take_a_number(katz_deli,"Grace")
 
-take_a_number(katz_deli, "Kent") 
+take_a_number(katz_deli,"Kent") 
   
