@@ -5,3 +5,5 @@ def line (number_of_people)
     puts "There are #{number_of_people} in line."
   end 
   
+def take_a_number (katz_deli) (new customer)
+  
