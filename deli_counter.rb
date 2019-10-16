@@ -18,4 +18,12 @@ take_a_number(katz_deli,"Grace")
 take_a_number(katz_deli,"Kent") 
   
   
-  
+  def line 
+    katz_deli=["Ada", "Grace", "Kent"]
+    katz_deli.each do 
+      
+      puts "The line is currently #{katz_deli.each.with.index}."
+      
+    end 
+    
+    
