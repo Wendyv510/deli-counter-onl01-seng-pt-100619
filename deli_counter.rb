@@ -5,7 +5,7 @@ def line (number_of_people)
     puts "There are #{number_of_people} in line."
   end 
   
-def take_a_number (katz_deli, new customer)
+def take_a_number (katz_deli,new customer)
   katz_deli=[].each.with.index 
   katz_deli << "new customer"
   puts "Welcome #{new customer}, You are number #{index} in line."
